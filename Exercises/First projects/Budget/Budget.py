@@ -33,7 +33,7 @@ def login():
         WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.ID, "nemid_iframe")))
         time.sleep(2)
         login_user = ActionChains(browser)
-        login_user.send_keys('kennykhk', Keys.TAB, 'Piksvin09', Keys.ENTER)
+        login_user.send_keys('USERNAME_HERE', Keys.TAB, 'PASSWORD_HERE', Keys.ENTER)
         login_user.perform()
     except Exception as exc:
         print(str(exc) + ' Unable to login. Service has been terminated.')
