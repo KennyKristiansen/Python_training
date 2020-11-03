@@ -1,0 +1,1 @@
+{'bolig': ['bolig', 'husleje'], 'mad': ['FOETEX'], 'transport': ['dronningemaens'], 'oevrige': ['yousee', 'Forsikring'], 'diverse': ['avallax', 'byggecenter', 'selen', 'Zoo', 'Outlet', 'Billetlugen', '68630630', 'Egeskov', 'Rasmussen', '007949', 'Sushi'], 'opsparing': [], 'gaeld': [], 'ukategoriseret': []}

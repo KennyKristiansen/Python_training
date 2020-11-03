@@ -1,0 +1,41 @@
+# Instructions:
+# This file contains all the adjustable limits for the colorization in the excel spreadsheet.
+# If these are left blank, fallback values will be used instead.
+# Please do not remove this file, it is needed for running the program.
+
+[Variables]
+fe_red =300
+fe_orange = 280
+fe_yellow=150
+
+v_red =1200
+v_orange =1100
+v_yellow =1000
+
+s_red =8
+s_orange =7
+s_yellow =6
+
+ni_red =280
+ni_orange =260
+ni_yellow =240
+
+cr_red =40
+cr_orange =35
+cr_yellow =25
+
+pb_red =9
+pb_orange =7
+pb_yellow =6
+
+cu_red =30
+cu_orange =20
+cu_yellow =15
+
+ca_red =80000
+ca_orange =50000
+ca_yellow =40000
+
+zn_red =280
+zn_orange =260
+zn_yellow =250
