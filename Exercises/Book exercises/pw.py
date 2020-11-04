@@ -2,7 +2,7 @@
 #Project - Password locker.py
 import pyperclip
 
-password = {'email':'Piksvin09','blog':'1234','youtube':'nein'}
+password = {'email':'Password','blog':'1234','youtube':'nein'}
 
 import sys
 if len(sys.argv) < 2:
