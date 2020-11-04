@@ -10,14 +10,16 @@ These come in the form of book exercises or small projects.
 
 ![](header.png)
 
-## Repository overview
+# Repository overview
+
+## Exercises
 
 ### Book exercises
 
 This is where i store projects and exercises that i completed as i first began learning python.
 These were mostly written as part of the book "Automate The Boring Stuff With Python" by Al Sweigart.
 
-<img src="https://automatetheboringstuff.com/images/automate_2e_cover.png" width="150" height="200"/>
+<img src="https://automatetheboringstuff.com/images/automate_2e_cover.png" width="150" height="200" alt="Cover picture for the book 'Automate the boring stuff'"/>
 
 _[Here][automate_the_boring_stuff-url] is a link to the Authors official website._
 
@@ -59,7 +61,7 @@ During this project, i learned about the following:
 Description is underway.
 ```
 
-### Fitness
+## Fitness
 
 ```
 Description is underway.
